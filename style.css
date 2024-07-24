@@ -1,0 +1,29 @@
+.button {
+    background-color: rgb(247, 247, 76);
+    border-radius: 5px;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    
+}
+.button:focus, .button:active {
+    outline: none;
+    box-shadow: none;
+}
+.card-custom {
+    border: 5px solid #f1f1f1;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 20px auto; 
+    box-shadow: 5px 5px;
+    
+}
+.card-custom .card-img-top {
+    border-bottom: 1px solid #ddd;
+}
+
+
+
+
+
+
